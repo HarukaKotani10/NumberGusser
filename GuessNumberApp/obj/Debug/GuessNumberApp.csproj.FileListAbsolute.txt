@@ -1,0 +1,7 @@
+C:\Users\17789\Documents\GitHub\GuessNumberApp\GuessNumberApp\GuessNumberApp\bin\Debug\GuessNumberApp.exe.config
+C:\Users\17789\Documents\GitHub\GuessNumberApp\GuessNumberApp\GuessNumberApp\bin\Debug\GuessNumberApp.exe
+C:\Users\17789\Documents\GitHub\GuessNumberApp\GuessNumberApp\GuessNumberApp\bin\Debug\GuessNumberApp.pdb
+C:\Users\17789\Documents\GitHub\GuessNumberApp\GuessNumberApp\GuessNumberApp\obj\Debug\GuessNumberApp.csprojAssemblyReference.cache
+C:\Users\17789\Documents\GitHub\GuessNumberApp\GuessNumberApp\GuessNumberApp\obj\Debug\GuessNumberApp.csproj.CoreCompileInputs.cache
+C:\Users\17789\Documents\GitHub\GuessNumberApp\GuessNumberApp\GuessNumberApp\obj\Debug\GuessNumberApp.exe
+C:\Users\17789\Documents\GitHub\GuessNumberApp\GuessNumberApp\GuessNumberApp\obj\Debug\GuessNumberApp.pdb
